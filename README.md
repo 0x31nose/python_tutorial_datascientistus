@@ -1,5 +1,5 @@
 # python_tutorial
-This repo is for my learning　Python with Google Colaboratory.
+This repo is for my learning Python with Google Colaboratory.
 In this tutorial, I will learn...
 - the basic sytax of Python
 - Numpy
